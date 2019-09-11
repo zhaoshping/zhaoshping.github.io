@@ -219,3 +219,11 @@ Redlock的算法描述就放在Redis的官网上：https://redis.io/topics/distl
 
 * [基于Redis的分布式锁到底安全吗（上）？](http://zhangtielei.com/posts/blog-redlock-reasoning.html)
 * [基于Redis的分布式锁到底安全吗（下）？](http://zhangtielei.com/posts/blog-redlock-reasoning-part2.html)
+
+## 引用
+* 阿里经济体开发规约：https://www.atatech.org/articles/50331
+* 数据密集型应用构建：https://github.com/Vonng/ddia
+
+## 开源版本
+DisLock是我使用Lettuce实现的单节点RedisLock
+DisLock：https://github.com/KeshawnVan/DisLock
