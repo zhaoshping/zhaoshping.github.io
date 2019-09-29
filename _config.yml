@@ -2,7 +2,7 @@
 title: PingPing Blog
 SEOTitle: 赵士萍的博客 | ShipingZhao Blog
 header-img: img/post-bg-desk.jpg
-email: fkx@live.cn
+email: XXXXXX
 description: "Too young.Too Simple."
 keyword: "PingPing, PingPing Blog, 赵士萍的博客, zhaoshiping, 赵士萍, Java, ShipingZhao, shiping,shping"
 url: "https://zhaoshping.github.io/"          # your host, for absolute URL
@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "https://zhaoshping.github.io"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·ZSP",
+        href: "https://zhaoshping.github.io"
     },{
         title: "Apple",
         href: "https://apple.com"
